@@ -12,8 +12,12 @@ Imagine you have `RDBMS`(Relational Database Management Sytem) that has real tim
 
  <img width="462" alt="Capture" src="https://user-images.githubusercontent.com/29586703/63629284-48b96800-c5df-11e9-9859-cfe8f3bb8d0d.PNG">
 
+## Data/Libraries used to built below application
+###### Note:To see information regarding how to connect to RDMS server check this [link](https://db.rstudio.com/pool/)
+
+![DataOverview1](https://user-images.githubusercontent.com/29586703/63644080-8e913180-c6ae-11e9-8547-b880d71b370c.png)
 
 
 ## Application can be accessed using below link
 
-https://biggboss2050.shinyapps.io/SystemDemo/
+[System Tracker Application](https://biggboss2050.shinyapps.io/SystemDemo/)
